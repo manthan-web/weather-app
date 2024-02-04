@@ -4,3 +4,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.display-none {
+    @apply hidden;
+}
+
+.icons {
+    @apply text-3xl
+}
